@@ -1,2 +1,14 @@
 # work_blog
 移动端知识小集
+
+# 面试
+1. [阿里、字节：一套高效的iOS面试题
+](https://juejin.im/post/5e397ccaf265da570b3f1b02)
+
+# iOS技术
+1. [Aspects深度解析-iOS面向切面编程
+](https://juejin.im/post/5e13c4366fb9a047f42e6406)
+
+# 工具效率
+1. [终端支持翻墙-更便捷可控
+](https://juejin.im/post/5e127308e51d4541360ac518)
