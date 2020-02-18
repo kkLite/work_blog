@@ -1,5 +1,5 @@
 # work_blog
-移动端知识小集
+移动端知识库
 
 # 面试
 1. [阿里、字节：一套高效的iOS面试题](https://juejin.im/post/5e397ccaf265da570b3f1b02)
